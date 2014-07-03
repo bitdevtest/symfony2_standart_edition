@@ -1,0 +1,7 @@
+parameters:
+#    pegas_test_test.example.class: PegasTest\TestBundle\Example
+
+services:
+#    pegas_test_test.example:
+#        class: %pegas_test_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
