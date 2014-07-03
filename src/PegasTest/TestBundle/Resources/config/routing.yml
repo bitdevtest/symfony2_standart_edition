@@ -1,3 +1,6 @@
-pegas_test_test_homepage:
+pegas_test_homepage:
     path:     /
     defaults: { _controller: PegasTestTestBundle:Default:index }
+pegas_test_user_form:
+    path:     /userform
+    defaults: { _controller: PegasTestTestBundle:UserForm:index }
