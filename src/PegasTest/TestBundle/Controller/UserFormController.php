@@ -13,7 +13,7 @@ class UserFormController extends Controller
 
 		$data=array();
 		//return new Response('<html><body>Hello '.'ololo'.'!</body></html>');
-		return $this->render('PegasTestTestBundle:UserForm:layout.html.twig', array(
+		return $this->render('PegasTestTestBundle:UserForm:index.html.twig', array(
 
 		));
 

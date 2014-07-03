@@ -13,7 +13,7 @@ class DefaultController extends Controller
 
 		$data=array();
 		//return new Response('<html><body>Hello '.'ololo'.'!</body></html>');
-        return $this->render('PegasTestTestBundle:Default:layout.html.twig', array(
+        return $this->render('PegasTestTestBundle:Default:index.html.twig', array(
 
 		));
 
